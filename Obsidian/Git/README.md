@@ -3,6 +3,7 @@
 
 ---
 ## **Git**
+
 ### 1. Git là gì ?
 
 Git là một hệ thống quản lý phiên bản phân tán. Nó cung cấp cho mỗi lập trình viên/dự án các kho lưu trữ (repository) riêng chứa toàn bộ lịch sử thay đổi của các tệp. Mỗi khi bạn _“commit”_, Git sẽ “chụp” các tệp và tạo một snapshot cùng một tham chiếu tới snapshot đó. Để việc lưu trữ hiệu quả, nếu các tệp không thay đổi, Git sẽ không lưu trữ tệp — thay vào đó chỉ là một liên kết/tham chiếu đến phiên bản gần nhất nhận sự thay đổi. Với Git, các lập trình viên có thể cộng tác với nhau trên cùng bộ mã nguồn.
@@ -14,7 +15,9 @@ Git là một hệ thống quản lý phiên bản phân tán. Nó cung cấp ch
 - SourceForge
 - Amazon AWS CodeCommit
 - v.v...
+
 ---
+
 ## **Lưu trữ ghi chép trên Obsidian với Git-GitHub**
 
 Một nhược điểm của Obsidian là tính năng lưu trữ và đồng bộ trực tuyến _**bị tính phí**_. Tuy nhiên, vấn đề này có thể được khắc phục bằng cách sử dụng kho lưu trữ thuộc bên thứ ba.
