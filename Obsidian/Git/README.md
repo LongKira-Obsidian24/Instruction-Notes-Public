@@ -1,3 +1,4 @@
+[**<< Quay về trang chủ**](/)
 # Lưu trữ ghi chép trên Obsidian với Git
 
 ---
