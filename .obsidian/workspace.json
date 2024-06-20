@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb2af0b98c20429d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c4d66dca81b8378a",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +149,19 @@
   },
   "active": "c4d66dca81b8378a",
   "lastOpenFiles": [
+    "Notion/IMG/gitnotion/3-link-sharing.jpg",
+    "Notion/IMG/gitnotion/2-link-sharing.jpg",
+    "Notion/IMG/gitnotion/1-create-repo.png",
+    "Notion/IMG/gitnotion/1-create-repo.png.fdmdownload",
+    "Notion/IMG/gitnotion/CommitWorkflow.jpg",
+    "Notion/IMG/gitnotion",
+    "Notion/IMG/New folder",
+    "Notion/IMG",
+    "Notion/New folder",
     "Notion/Export2Github.md",
     "README.md",
-    "Notion/README.md",
     "Notion",
+    "Notion/README.md",
     "Notions/README.md",
     "Notions/Unconfirmed 734345.crdownload",
     "Notions"

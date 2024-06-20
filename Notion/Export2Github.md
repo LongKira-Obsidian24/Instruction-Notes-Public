@@ -1,11 +1,13 @@
-**UPDATE 2022-02-13**: No longer maintained, as I don't use notion anymore. Sorry for the inconvience.
+**CẬP NHẬT 13-02-2022**: Plugin này đã dừng phát triển và tác giả đã ngừng sử dụng Notion.
 
 
-# notion-exporter
+# Notion Exporter
 
-Notion Exporter is a github action which allows you to export the content of your Notion ([notion.so](https://notion.so)) pages and databases as markdown, to a github repo.
+[Notion Exporter](https://github.com/marketplace/actions/notion-exporter) là GitHub action cho phép xuất nội dung các trang và cơ sở dữ liệu Notion ([notion.so](https://notion.so)) dưới dạng markdown vào kho GitHub. Cả không gian làm việc ban đầu lẫn kho GitHub đích đều có thể thiết lập chế độ riêng tư.
 
 Both the target repo and the source workspace can be private. The Github free plan is good enough 🙏. The action uses the internal Notion API.
+Action này sử dụng API riêng của Notion và tương thích với GitHub miễn phí.
+
 
 ## Demo
 
