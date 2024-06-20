@@ -1,7 +1,9 @@
 [**<< Quay về trang chủ**](/Instruction-Notes-Public)
+
 # Lưu trữ ghi chép trên Obsidian với Git
 
 ---
+
 ## **Git**
 
 ### 1. Git là gì ?
