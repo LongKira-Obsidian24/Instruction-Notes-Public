@@ -14,7 +14,7 @@ Hướng dẫn sử dụng một số công cụ cho học tập và làm việc
 [Obsidian](https://obsidian.md/) là một ứng dụng ghi chú và quản lý kiến thức cá nhân mạnh mẽ giúp bạn có thể hệ thống những kiến thức có giá trị mình tiếp nhận được trong đời sống hàng ngày.
 
 - [Lưu trữ nội dung Obsidian trên Git](./Obsidian/Git)
-- [Lưu trữ nội dung Obsidian trên Google Drive hoặc OneDrive](/Obsidian/Drive)
+- [Lưu trữ nội dung Obsidian trên Google Drive hoặc OneDrive](./Obsidian/Drive)
 
 ---
 ## Các công cụ quản lý dự án - công việc
