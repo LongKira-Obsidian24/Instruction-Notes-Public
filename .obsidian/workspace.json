@@ -161,6 +161,8 @@
   },
   "active": "c4d66dca81b8378a",
   "lastOpenFiles": [
+    "README.md",
+    "index.md",
     "Obsidian/Git/obsidian-git.md",
     "Obsidian/Git/IMGs/05-clone-repo-git-plugin.png",
     "Obsidian/Git/IMGs/04-GitTokens.jpg",
@@ -174,7 +176,6 @@
     "New Text Document.txt",
     "Obsidian/Git/IMGs",
     "Obsidian/Git/New folder",
-    "index.md",
     "Obsidian/Git",
     "Obsidian",
     "Notion/Export2Github.md",
