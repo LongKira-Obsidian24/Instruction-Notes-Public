@@ -1,4 +1,4 @@
-[**<< Quay về trang chủ**](/)
+[**<< Quay về trang chủ**](/Instruction-Notes-Public)
 # Lưu trữ ghi chép trên Obsidian với Git
 
 ---
