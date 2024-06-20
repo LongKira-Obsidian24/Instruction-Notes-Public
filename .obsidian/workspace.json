@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Git/obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a79aa7e3f98729e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Git/obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Git/obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian/Git/obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Obsidian/Git/obsidian-git.md"
               }
             }
           }
@@ -149,8 +161,23 @@
   },
   "active": "c4d66dca81b8378a",
   "lastOpenFiles": [
-    "Notion/Export2Github.md",
+    "Obsidian/Git/IMGs/05-clone-repo-git-plugin.png",
+    "Obsidian/Git/obsidian-git.md",
+    "Obsidian/Git/IMGs/04-GitTokens.jpg",
+    "IMGs/03-Git.md",
+    "IMGs",
+    "Obsidian/Git/IMGs/03-Git.jpg",
+    "Obsidian/Git/IMGs/02-Browse.jpg",
+    "IMG/obsidian-git.md",
+    "IMG",
+    "Obsidian/Git/IMGs/01-TurnoffRestricted.jpg",
+    "New Text Document.txt",
+    "Obsidian/Git/IMGs",
+    "Obsidian/Git/New folder",
     "README.md",
+    "Obsidian/Git",
+    "Obsidian",
+    "Notion/Export2Github.md",
     "Notion/IMG/gitnotion/4-CommitWorkflow.jpg",
     "Notion/IMG/gitnotion/3-link-sharing.jpg",
     "Notion/IMG/gitnotion/2-link-sharing.jpg",
@@ -159,12 +186,7 @@
     "Notion/IMG/gitnotion/CommitWorkflow.jpg",
     "Notion/IMG/gitnotion",
     "Notion/IMG/New folder",
-    "Notion/IMG",
-    "Notion/New folder",
-    "Notion",
     "Notion/README.md",
-    "Notions/README.md",
-    "Notions/Unconfirmed 734345.crdownload",
-    "Notions"
+    "Notions/README.md"
   ]
 }
