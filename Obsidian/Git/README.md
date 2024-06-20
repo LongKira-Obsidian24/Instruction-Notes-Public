@@ -24,20 +24,25 @@ Git là một hệ thống quản lý phiên bản phân tán. Nó cung cấp ch
 
 Một nhược điểm của Obsidian là tính năng lưu trữ và đồng bộ trực tuyến _**bị tính phí**_. Tuy nhiên, vấn đề này có thể được khắc phục bằng cách sử dụng kho lưu trữ thuộc bên thứ ba.
 
-Vì Obsidian sử dụng ngôn ngữ Markdown để đánh dấu hiển thị, các mã nguồn Markdown này có thể được lưu trữ trên các kho Git. Bài viết này chọn GitHub làm dịch vụ để lưu trữ các tài liệu Obsidian. Bạn có thể dùng GitHub Desktop với giao diện đồ họa dễ sử dụng (nếu không quen với việc thiết lập phức tạp và xử lý dòng lệnh), hoặc sử dụng giao diện dòng lệnh Git độc lập. Tuy nhiên, để việc tích hợp mã nguồn trở nên tiện hơn, bạn có thể sử dụng plugin _Git_ để tương tác trực tiếp với kho Git ngay trong quá trình làm việc trên Obsidian.
+Vì Obsidian sử dụng ngôn ngữ Markdown để đánh dấu hiển thị, các mã nguồn Markdown này có thể được lưu trữ trên các kho Git. Bài viết này chọn GitHub làm dịch vụ để lưu trữ các tài liệu Obsidian. Bạn có thể dùng GitHub Desktop với giao diện đồ họa dễ sử dụng (nếu không quen với việc thiết lập phức tạp và xử lý dòng lệnh), hoặc sử dụng giao diện dòng lệnh Git độc lập. Tuy nhiên, để việc tích hợp mã nguồn trở nên tiện hơn, bạn có thể sử dụng plugin _Git_ để tương tác trực tiếp với kho Git ngay trong quá trình làm việc trên Obsidian. Bài viết này hướng dẫn các bạn thực hiện điều đó
 
 ### 1. Trên GitHub
 
 #### 1.1 - Tạo repo trên GitHub
 #### 1.2 - Tạo token truy cập
+
 2. Nhấn vào ảnh đại diện tài khoản người dùng (góc trên cùng bên phải), vào _Settings > Development Settings > Personal Access Tokens > (Khuyến khích) Fine-grained Tokens_ và chọn _Generate New Token_
-3. Nhập tên, chọn thời điểm hết hạn và chủ sở hữu tài nguyên _(Resource owner)_.
-4. Tại mục _Repository access_, chọn phạm vi các repo bạn muốn token truy cập vào.
-5. Tại mục _Permissions_, chọn các giới hạn truy cập cho các thao tác khác nhau đối với kho mã nguồn và đối với tài khoản, trong phạm vi các repo markdown, khuyến khích không cấp quyền tác động vào tài khoản cho token. Bạn có thể tham khảo các quyền cho repo như gợi ý dưới đây hoặc tự điều chỉnh theo ý bạn: <br>
+
+![](./IMGs/04-GitTokens.jpg)
+
+4. Nhập tên, chọn thời điểm hết hạn và chủ sở hữu tài nguyên _(Resource owner)_.
+5. Tại mục _Repository access_, chọn phạm vi các repo bạn muốn token truy cập vào.
+6. Tại mục _Permissions_, chọn các giới hạn truy cập cho các thao tác khác nhau đối với kho mã nguồn và đối với tài khoản, trong phạm vi các repo markdown, khuyến khích không cấp quyền tác động vào tài khoản cho token. Bạn có thể tham khảo các quyền cho repo như gợi ý dưới đây hoặc tự điều chỉnh theo ý bạn: <br>
    - Cho phép truy cập: _codespaces metadata, discussions, metadata, security events, actions, administration, code, codespaces, commit statuses, deployments, environments, pull requests, repository custom properties, repository hooks, workflows_
    - Cấm truy cập các thành phần còn lại (mặc định) <br>
 7. Kéo xuống dưới cùng và chọn _Generate Token_
 8. Sao chép và lưu lại token ở một nơi an toàn, tránh làm mất vì token sẽ không hiển thị lại trên GitHub **bất kỳ lần nào**.
+
 ### 2. Trên máy tính
 
 Cài đặt bản Git tương thích với hệ thống của bạn. 
