@@ -9,7 +9,7 @@ Hướng dẫn sử dụng một số công cụ cho học tập và làm việc
 #### **2. Obsidian**
 _\*[Obsidian](https://obsidian.md/) là một ứng dụng ghi chú và quản lý kiến thức cá nhân mạnh mẽ giúp bạn có thể hệ thống những kiến thức có giá trị mình tiếp nhận được trong đời sống hàng ngày._
 
-- Lưu trữ nội dung Obsidian trên Git
+- [Lưu trữ nội dung Obsidian trên Git](./obsidian/git/obsidian-git.md)
 - Lưu trữ nội dung Obsidian trên Google Drive hoặc OneDrive
 
 #### **3. Hugo**
