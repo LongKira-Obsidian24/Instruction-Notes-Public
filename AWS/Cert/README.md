@@ -38,7 +38,7 @@ Tại khung _Sign in with AWS Builder ID_, nhấn _Next_ nếu bạn không có 
 
 Nếu đăng nhập thành công, bạn sẽ được chuyển tới màn hình sau:
 
-![[06-SignSuccess.jpg]](./IMG/SignSuccess)
+![[06-SignSuccess.jpg]](./IMG/SignSuccess.jpg)
 
 ## 2. Đăng ký thi
 
