@@ -29,3 +29,10 @@ Hướng dẫn sử dụng một số công cụ cho học tập và làm việc
 #### **1. Hugo**
 
 [Hugo](https://gohugo.io/) là một trình tạo trang web tĩnh cho phép bạn tạo trang web không cần hoặc cần ít mã nguồn. Hugo cho phép viết nội dung web bằng một ngôn ngữ đánh dấu (markup language) đơn giản, chẳng hạn như Markdow.
+
+---
+
+## Chứng chỉ AWS
+
+#### **1. Cách đăng ký thi chứng chỉ**
+[Hướng dẫn đăng ký thi chứng chỉ](./AWS/Cert)
