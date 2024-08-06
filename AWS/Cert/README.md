@@ -15,6 +15,7 @@ Trong trang tiếp theo, giữ phương thức đăng nhập bằng _AWS Builder
 ![](./IMG/02-Acc1.jpg)
 
 Tại khung **_Create AWS Builder ID_**, nhập email và nhấn _Next_ để tạo tài khoản mới (xem phần [1.1](#11-đăng-ký-tài-khoản-mới)) hoặc _Already have AWS Builder ID ? Sign in_ để đăng nhập vào tài khoản đã có (xem phần [1.2](#12-đăng-nhập)).
+
 ![](./IMG/03-Acc2.jpg)
 ### 1.1. Đăng ký tài khoản mới
 Tại khung tạo tài khoản, ngoài e-mail đã nhập ở bước trước, nhập tên người dùng và nhấn _Next_.
