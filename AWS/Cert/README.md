@@ -130,3 +130,6 @@ Chọn phương thức thanh toán và nhập thông tin.
 Sau khi hoàn tất việc thanh toán, kiếm tra e-mail của bạn để xem hóa đơn do chính Pearson VUE gửi.
 
 ![[13-Bill.jpg]](./IMG/13-Bill.jpg)
+
+
+Vậy là việc đăng ký đã hoàn tất. Chúc bạn thi tốt !
