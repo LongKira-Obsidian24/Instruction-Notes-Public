@@ -32,6 +32,7 @@ Tại khung _Sign in with AWS Builder ID_, nhấn _Next_ nếu bạn không có 
 ![](./IMG/05.1-Signin1.jpg)
 
 Ở khung tiếp theo, nhập mật khẩu của bạn.
+
 ![](./IMG/05.2-Signin2.jpg)
 
 ## 2. Đăng ký thi
